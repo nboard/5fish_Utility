@@ -1,4 +1,5 @@
 # 5fish_Utility
+A project created by Joel Ramireddy and Noah Board for LightSys's 2021 Code-a-Thon for missions 
 
 ## Build Setup
 
